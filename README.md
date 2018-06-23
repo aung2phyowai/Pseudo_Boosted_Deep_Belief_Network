@@ -1,5 +1,5 @@
 # Pseudo_Boosted_Deep_Belief_Network
-Source code for paper "pseudo boosted deep belief network", ICANN 2016, Authors: Tiehang Duan; Sargur N. Srihari;
+Source code for paper "Pseudo Boosted Deep Belief Network", ICANN 2016, Authors: Tiehang Duan; Sargur N. Srihari;
 
 The source code is written in matlab and everything is implemented from scratch. The source code is tested on Matlab 2015a.
 
