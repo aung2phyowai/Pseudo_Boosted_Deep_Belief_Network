@@ -7,5 +7,5 @@ Please run main.m to use the model.
 
 Functions for processing the data including loadMNISTImages.m, loadMNISTLabels.m and converter.m are adopted from Ruslan Salakhutdinov and Geoff Hinton's DBN package. The MNIST dataset is downloaded from Yann LeCun's Website.
 
-This project is completed two years ago and is not actively maintained.
+This project is completed two years ago and is not actively maintained. 
 
