@@ -9,7 +9,7 @@ To run the model, please:
     
     2) Run main.m.
     
-The parameters in main.m is set for fast demo purpose. To achieve results comparable to current state-of-the-art, please set time1=10, time2=5, 
+The parameters in main.m is set for fast demo purpose. To achieve results comparable to current state-of-the-art, please set time1=10, time2=5, Iter_size=60000 in main.m.
 
 Functions for processing the data including loadMNISTImages.m, loadMNISTLabels.m and converter.m are adopted from Ruslan Salakhutdinov and Geoff Hinton's DBN package. discretesample.m is adopted from Dahua Lin's repository.
 
